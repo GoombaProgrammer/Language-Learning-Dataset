@@ -37,7 +37,7 @@ the
 The car was blue
 The orange is beautiful
 The sky is blue
-What color is the sky on a sunny day?  -------------------------   Would you like me to generate another sentence in a different category?  What category would you choose?   If you need an assistant for something else,
+What color is the sky on a sunny day?
 The red flowers in the garden were blooming beautifully
 using specific colors
 Blue cars are driving on the highway.
