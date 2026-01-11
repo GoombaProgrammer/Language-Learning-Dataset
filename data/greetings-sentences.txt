@@ -6,7 +6,6 @@ Hello, how was your day?
 Hello, how was your day?
 Good morning, how was your weekend?
 Hello, how was your day?
-house
 Hello, how was your day?
 Hello, my name is Emma and I'm happy to meet you.
 Hello, I'm glad to meet you.
@@ -28,7 +27,7 @@ Welcome to our town, I'm so glad you're here.
 Hello, how was your day?
 Good morning, how was your day so far?
 Hello, how are you today?
-Hello, how are you today?   Would you like to generate another sentence or stop here? If yes, what type of sentence would you like it to be?  If no, then I can say goodbye and we
+Hello, how are you today?
 Hello, how was your day?
 Good morning, how was your day so far?
 Hello, how was your day?
@@ -76,9 +75,8 @@ Good morning, how was your day so far?
 Hello, how are you today?
 Hello, how are you today?
 Hello, how are you doing today?
-Hello, how are you today? ###
+Hello, how are you today?
 Hello, how was your day?
-Max
 Good morning, how's your day going so far?
 Good morning, how are you today?
 Hello, how's your day going?
